@@ -46,3 +46,14 @@ The dataset used in this project is **`portland_housing_full.csv`**, which conta
 2. Run the program with the following command:
    ```bash
    python gradient_descent.py
+
+
+### **Expected Output**
+The GD estimate of regression of Price on Size is price = 0.0310 + 0.9180 * size.
+
+
+### **File Structure**
+  |-- gradient_descent.py      # Main script implementing the algorithm
+  |-- portland_housing_full.csv # Dataset file
+  |-- README.md                # Project documentation
+
