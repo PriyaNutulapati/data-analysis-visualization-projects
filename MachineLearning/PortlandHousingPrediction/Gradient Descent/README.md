@@ -53,7 +53,9 @@ The GD estimate of regression of Price on Size is price = 0.0310 + 0.9180 * size
 
 
 ### **File Structure**
-  |-- gradient_descent.py      # Main script implementing the algorithm
-  |-- portland_housing_full.csv # Dataset file
-  |-- README.md                # Project documentation
+ 
+```text
+|-- gradient_descent.py      # Main script implementing the algorithm
+|-- portland_housing_full.csv # Dataset file
+|-- README.md                # Project documentation
 
