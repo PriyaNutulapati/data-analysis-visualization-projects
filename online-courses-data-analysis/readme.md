@@ -6,7 +6,7 @@ In this project, I developed a **Power BI dashboard** to analyze online course d
 
 This dashboard provides **category-wise analysis** of course distribution, instructor performance, language preferences, and viewer engagement. The insights derived from this project are **essential for data-driven decision-making**, enabling the startup to align its offerings with market demands.
 
-🔗 **Live Dashboard Link**: [Click Here to View](https://app.powerbi.com/view?r=eyJrIjoiZjI1YjE0MDgtNTBlYi00OTRlLWI4Y2EtOGIwYjBiMjlkM2Y5IiwidCI6ImQ5Yjc5MGQwLWQyZGQtNGRmMi1iM2M3LTM3OGIxMjUxNzdlYiIsImMiOjN9)
+🔗 **Live Dashboard Link**: [Click Here to View](https://app.powerbi.com/view?r=eyJrIjoiZTA5MTQ1ODEtNzFmZC00MjUyLWJlMjUtYWFiNGRlYTkxMmNkIiwidCI6ImQ5Yjc5MGQwLWQyZGQtNGRmMi1iM2M3LTM3OGIxMjUxNzdlYiIsImMiOjN9)
 
 ---
 
