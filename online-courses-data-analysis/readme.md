@@ -129,7 +129,7 @@ I was assigned the role of a **data analyst** working with an **EdTech startup**
 📷 **A Sneak Peek at the Dashboard**  
 _Below is a glimpse of the interactive Power BI dashboard, showcasing the structured analysis of online course trends._  
 
-![Dashboard Screenshot](./dashboard.png)
+![Dashboard Screenshot](./dashboardImg.png)
 
 💡 **Want to experience the dashboard live?** Click below to interact with the dynamic visualizations:  
 
