@@ -1,8 +1,8 @@
-# 🚀 Power BI Dashboard - Tech Startup Online Courses Analysis
+# 🚀 Power BI Dashboard - Online Courses Analysis
 
 ## 📊 Overview
 
-In this project, I developed a **Power BI dashboard** to analyze online course data from **an EdTech startup**. The startup aims to expand its **recorded lecture offerings** and has collected data from multiple platforms. My task was to **clean, transform, and analyze this data**, uncovering insights that would help **optimize course content, improve accessibility, and enhance business strategies**.
+In this project, I used **Power BI dashboard** to analyze online course data from **an Tech startup** looking to expand its **recorded lecture offerings**. By **cleaning, transforming, and analyzing data** from multiple platforms, I uncovered key insights to help the business optimize course content, improve accessibility, and refine its growth strategy. The findings enable data-driven decisions that enhance learner engagement and drive sustainable business growth.
 
 This dashboard provides **category-wise analysis** of course distribution, instructor performance, language preferences, and viewer engagement. The insights derived from this project are **essential for data-driven decision-making**, enabling the startup to align its offerings with market demands.
 
@@ -13,7 +13,7 @@ This dashboard provides **category-wise analysis** of course distribution, instr
 ## 🏆 Case Study & Problem Statement
 
 **Scenario:**  
-I was assigned the role of a **data analyst** working with an **EdTech startup** that collects data from multiple platforms. However, the **raw data was unstructured and difficult to analyze**. My task was to **clean, transform, and analyze the data to extract meaningful insights**.
+Assuming the role of a **data analyst** working with an **EdTech startup** that collects data from multiple platforms. However, the **raw data was unstructured and difficult to analyze**. I took the task to **clean, transform, and analyze the data to extract meaningful insights**.
 
 **Key Business Questions to Address:**
 1. **Course Distribution by Category & Subcategory** 📚  
@@ -133,7 +133,7 @@ _Below is a glimpse of the interactive Power BI dashboard, showcasing the struct
 
 💡 **Want to experience the dashboard live?** Click below to interact with the dynamic visualizations:  
 
-🔗 **[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjI1YjE0MDgtNTBlYi00OTRlLWI4Y2EtOGIwYjBiMjlkM2Y5IiwidCI6ImQ5Yjc5MGQwLWQyZGQtNGRmMi1iM2M3LTM3OGIxMjUxNzdlYiIsImMiOjN9)**  
+🔗 **[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTA5MTQ1ODEtNzFmZC00MjUyLWJlMjUtYWFiNGRlYTkxMmNkIiwidCI6ImQ5Yjc5MGQwLWQyZGQtNGRmMi1iM2M3LTM3OGIxMjUxNzdlYiIsImMiOjN9)**  
 
 🚀 **Data-driven decisions start here!** Dive into insights that can transform the way EdTech startups strategize their recorded lecture offerings.
 
@@ -142,4 +142,4 @@ _Below is a glimpse of the interactive Power BI dashboard, showcasing the struct
 
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/PriyaNutulapati/data-analysis-visualization-projects
